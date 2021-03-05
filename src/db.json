@@ -1,0 +1,41 @@
+{
+  "menu": [
+    {
+      "title": "Мобільний телефон Samsung Galaxy A71 6/128GB Blue (SM-A715FZBUSEK)",
+      "price": 9499,
+      "url": "https://i8.rozetka.ua/goods/16375408/samsung_sma715fzbusek_images_16375408267.png",
+      "id": 1
+    },
+    {
+      "title": "Мобільний телефон Apple iPhone 12 Pro Max 128 GB Silver",
+      "price": 39999,
+      "url": "https://i2.rozetka.ua/goods/20300776/apple_iphone_12_pro_max_128gb_silver_images_20300776916.jpg",
+      "id": 2
+    },
+    {
+      "title": "Мобільний телефон Samsung Galaxy A02s 3/32 GB Blue (SM-A025FZBESEK)",
+      "price": 3399,
+      "url": "https://i2.rozetka.ua/goods/21067155/samsung_sm_a025fzbesek_images_21067155296.jpg",
+      "id": 3
+    },
+    {
+      "title": "Мобільний телефон Samsung Galaxy A10s 2021 2/32 GB Blue (SM-A107FDBDSEK)",
+      "price": 3399,
+      "url": "https://i2.rozetka.ua/goods/21527058/samsung_sm_a107fdbdsek_images_21527058238.jpg",
+      "id": 4
+    },
+    {
+      "title": "Мобільний телефон Motorola E6s 4/64GB Meteor Grey (PAJE0031RS)",
+      "price": 2999,
+      "url": "https://i8.rozetka.ua/goods/19807184/motorola_paje0031rs_images_19807184173.jpg",
+      "id": 5
+    },
+    {
+      "title": "Мобільний телефон Nokia 3.4 3/64 GB Charcoal",
+      "price": 3699,
+      "url": "https://i8.rozetka.ua/goods/20033755/nokia_3_4_3_64gb_charcoal_images_20033755236.png",
+      "id": 6
+    }
+  ],
+  "orders": []
+}

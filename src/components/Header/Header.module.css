@@ -1,0 +1,29 @@
+.header {
+    background-color: black;
+    width: 100%;
+    height: 100px;
+}
+
+.conteiner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+    /* background-color: blanchedalmond; */
+}
+
+.text {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.text a {
+    color: white;
+}
+
+.cart {
+    font-size: 30px;
+    color: white;
+}

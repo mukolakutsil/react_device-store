@@ -1,0 +1,16 @@
+.footer {
+    background-color: burlywood;
+}
+
+.footer__row {
+    display: flex;
+    height: 65px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer__text {
+
+    color: darkblue;
+    font-size: 12px;
+}
