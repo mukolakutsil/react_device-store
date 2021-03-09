@@ -9,51 +9,16 @@
     grid-row-gap: 0px;
 }
 
-.menuList {
-    background-color: teal;
-    grid-area: 1 / 1 / 6 / 2;
-    text-align: center;
-}
-
-.menuList li {
-    padding: 20px;
-}
-
 .items {
-    background-color: tomato;
+    /* background-color: tomato; */
     grid-area: 1 / 2 / 6 / 6;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: flex-start;
     flex-wrap: wrap;
 }
 
-.item {
-    padding: 20px;
-    width: 30%;
-    /* background-color: red; */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
-}
-
 .content {
     margin: 55px 0px 55px 0px;
-    /* flex: 1 1 500px; */
-}
-
-.title {
-    display: block;
-    width: 50%;
-    margin-top: 5px;
-    text-align: center;
-    background-color: thistle;
-}
-
-img {
-    height: 125px;
-    /* width: 250px; */
-    object-fit: contain;
+    flex: 1 1 500px;
 }

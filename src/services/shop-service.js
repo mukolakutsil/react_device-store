@@ -10,8 +10,16 @@ export default class ShopService {
         return await res.json();
     }
 
-    async getMenuItems() {
-        return await this.getResource('/menu/');
+    async getMobiles() {
+        return await this.getResource('/mobiles/');
+    }
+
+    async getMenuList() {
+        return await this.getResource('/menuList/');
+    }
+
+    async getLaptops() {
+        return await this.getResource('/laptops/');
     }
 
     async getItem(id) {

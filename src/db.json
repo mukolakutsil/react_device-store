@@ -1,5 +1,17 @@
 {
-  "menu": [
+  "menuList": [
+    {
+      "name": "mobiles",
+      "text": "Мобільні телефони",
+      "id": 111
+    },
+    {
+      "name": "laptops",
+      "text": "Ноутбуки",
+      "id": 112
+    }
+  ],
+  "mobiles": [
     {
       "title": "Мобільний телефон Samsung Galaxy A71 6/128GB Blue (SM-A715FZBUSEK)",
       "price": 9499,
@@ -35,6 +47,44 @@
       "price": 3699,
       "url": "https://i8.rozetka.ua/goods/20033755/nokia_3_4_3_64gb_charcoal_images_20033755236.png",
       "id": 6
+    }
+  ],
+  "laptops": [
+    {
+      "title": "Ноутбук HP Pavilion Gaming 15-ec1007ua (1S0W5EA) Dark Grey",
+      "price": 29999,
+      "url": "https://i2.rozetka.ua/goods/20726264/copy_hp_1n3l2ea_5faea9d8ecc33_images_20726264581.jpg",
+      "id": 221
+    },
+    {
+      "title": "Ноутбук HP Laptop 15s-eq1002ua (1U9R7EA) Silver",
+      "price": 20999,
+      "url": "https://i8.rozetka.ua/goods/19590643/hp_1u9r7ea_images_19590643123.jpg",
+      "id": 222
+    },
+    {
+      "title": "Ноутбук Acer Aspire 5 A515-55G (NX.HZFEU.009) Pure Silver",
+      "price": 18999,
+      "url": "https://content2.rozetka.com.ua/goods/images/big/87589181.jpg",
+      "id": 223
+    },
+    {
+      "title": "Ноутбук Acer Aspire 5 A515-56-543Q (NX.A1HEU.00K) Pure Silver",
+      "price": 21499,
+      "url": "https://i2.rozetka.ua/goods/20202650/acer_nx_a1heu_00k_images_20202650421.jpg",
+      "id": 224
+    },
+    {
+      "title": "Ноутбук Asus TUF Gaming A15 FA506IV-HN198 (90NR03L1-M04340) Fortress Gray",
+      "price": 37999,
+      "url": "https://i8.rozetka.ua/goods/18567922/copy_asus_90nr03m1_m01000_5ed8cbce7b2e7_images_18567922915.jpg",
+      "id": 225
+    },
+    {
+      "title": "Ноутбук Asus Laptop E410MA-EB268 (90NB0Q11-M17970) Peacock Blue",
+      "price": 9999,
+      "url": "https://i2.rozetka.ua/goods/21467363/copy_asus_90nb0q11_m17950_600aea6bc9c77_images_21467363773.jpg",
+      "id": 226
     }
   ],
   "orders": []
